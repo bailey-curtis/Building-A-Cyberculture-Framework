@@ -1,7 +1,6 @@
 # Building a Cyberculture Framework
 
 <h2>Scenario</h2>
-<br>
 Employees at SilverCorp are increasingly using their own personal devices for company work.
 Specifically, over half of all employees check their work email and communications via Slack on their personal mobile phones.
 Another 25% of employees are doing other work-related activities, using work accounts and work-related applications, on their personal phone.
@@ -10,7 +9,8 @@ Allowing sensitive work information to be shared on employees’ personal device
 <h2>Instructions</h2>
 Complete the following four steps, and list your answers to each question in the Module 2 Challenge Submission FileLinks to an external site.. Remember to make a copy of the Submission File before filling out your answers! This document will be your deliverable for this Challenge.
 
-Step 1: Measure and Set Goals
+<b> Step 1: Measure and Set Goals
+<br>
 Answer the following questions:
 
 Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
