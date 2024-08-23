@@ -11,7 +11,7 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <br>
 <br>
-<font size="+2"><b>Step 1: Measure and Set Goals</b></font>
+<b>Step 1: Measure and Set Goals</b>
 <br>
 <br>
 <b>Answer the following questions:</b>
@@ -33,18 +33,24 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <b>Step 2: Involve the Right People</b>
 <br>
+<br>
 Now that you have a goal in mind, who needs to be involved?
-
-List at least five employees or departments that should be involved. For each person or department, describe in 2–3 sentences what their role and responsibilities will be.
-Step 3: Training Plan
+<br>
+  5. List at least five employees or departments that should be involved. For each person or department, describe in 2–3 sentences what their role and responsibilities will be.
+<br>
+<b>Step 3: Training Plan</b>
+<br>
 Training is part of any security culture framework plan. How will you train your employees on this security concern? In your Submission File, describe the following:
-
-How frequently will you run training? What format will it take (e.g., in-person, online, a combination of both)?
-
-What topics will you cover in your training, and why? (This should be the bulk of the deliverable.)
-
-After you’ve run your training, how will you measure its effectiveness?
-
+<br>
+  6. How frequently will you run training? What format will it take (e.g., in-person, online, a combination of both)?
+<br>
+<br>
+  7. What topics will you cover in your training, and why? (This should be the bulk of the deliverable.)
+<br>
+<br>
+  8. After you’ve run your training, how will you measure its effectiveness?
+<br>
+<br>
 This portion will require additional outside research on the topic so that you can lay out a clear and thorough training agenda.
 
 Optional Additional Challenge: Other Solutions
