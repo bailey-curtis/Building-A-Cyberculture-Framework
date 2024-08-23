@@ -13,8 +13,8 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <b>Step 1: Measure and Set Goals</b>
 <br>
+Answer the following questions:
 <br>
-<b>Answer the following questions:</b>
 <br>
   <u> 1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.</u>
 <br>
@@ -33,14 +33,16 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <b>Step 2: Involve the Right People</b>
 <br>
-<br>
 Now that you have a goal in mind, who needs to be involved?
 <br>
+<br>
   5. List at least five employees or departments that should be involved. For each person or department, describe in 2–3 sentences what their role and responsibilities will be.
+<br>
 <br>
 <b>Step 3: Training Plan</b>
 <br>
 Training is part of any security culture framework plan. How will you train your employees on this security concern? In your Submission File, describe the following:
+<br>
 <br>
   6. How frequently will you run training? What format will it take (e.g., in-person, online, a combination of both)?
 <br>
@@ -52,16 +54,17 @@ Training is part of any security culture framework plan. How will you train your
 <br>
 <br>
 This portion will require additional outside research on the topic so that you can lay out a clear and thorough training agenda.
-
-Optional Additional Challenge: Other Solutions
+<br>
+<br>
+<b>Optional Additional Challenge: Other Solutions</b>
+<br>
 Training alone often isn't the entire solution to a security concern.
+<br>
+<br>
+  9. List at least two other potential solutions. For each one, indicate the following:
 
-List at least two other potential solutions. For each one, indicate the following:
-
-What type of control is it? Administrative, technical, or physical?
-
-What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?
-
-What is one advantage of each solution?
-
-What is one disadvantage of each solution?
+<ol type="1">
+  <li>What type of control is it? Administrative, technical, or physical?</li>
+  <li>What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?</li>
+  <li>What is one advantage of each solution?</li>
+  <li>What is one disadvantage of each solution?</li>
