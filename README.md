@@ -8,14 +8,10 @@ Allowing sensitive work information to be shared on employees’ personal device
 
 <h2>Instructions</h2>
 Complete the following four steps, and list your answers to each question in the Module 2 Challenge Submission FileLinks to an external site.. Remember to make a copy of the Submission File before filling out your answers! This document will be your deliverable for this Challenge.
-
-<br> 
-
-
-
-<br> 
-
-<u>Answer the following questions:</u>
+<br>
+<u>Step 1: Measure and Set Goals</u>
+<br>
+<b>Answer the following questions:</b>
 <ol type="1">
   <li>Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out. </li>
   <li>Based on the previous scenario, what is the preferred employee behavior? </li>
