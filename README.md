@@ -10,18 +10,26 @@ Allowing sensitive work information to be shared on employees’ personal device
 Complete the following four steps, and list your answers to each question in the Module 2 Challenge Submission FileLinks to an external site.. Remember to make a copy of the Submission File before filling out your answers! This document will be your deliverable for this Challenge.
 <br>
 <br>
+<br>
 <b>Step 1: Measure and Set Goals</b>
 <br>
 <br>
 <b>Answer the following questions:</b>
+<br>
+Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+<br>
+<br>
+Based on the previous scenario, what is the preferred employee behavior?
+<br>
+<br>
+For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
+<br>
+<br>
+What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
+<br>
+For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ul>
 <ol type="1">
-  <li>Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out. </li>
-  <li>Based on the previous scenario, what is the preferred employee behavior? </li></ol>
-<ol>
-  <li>For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.</li>
-  <li>What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?</li>
-  <li>For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ol>
-What is the goal that you would like the organization to reach regarding this behavior?
+  <li>What is the goal that you would like the organization to reach regarding this behavior?</li>
 
 For example, to have less than 5% of employees downloading suspicious email attachments.
 Step 2: Involve the Right People
