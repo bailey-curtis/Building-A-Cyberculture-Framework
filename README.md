@@ -15,7 +15,7 @@ Complete the following four steps, and list your answers to each question in the
 
 <br> 
 
-Answer the following questions:
+<u>Answer the following questions: </u>
 <ol type="1">
   <li>Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out. </li>
   <li>Based on the previous scenario, what is the preferred employee behavior? </li>
