@@ -12,15 +12,15 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <b>Step 1: Measure and Set Goals</b>
 <br>
+<br>
 <b>Answer the following questions:</b>
 <ol type="1">
   <li>Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out. </li>
-  <li>Based on the previous scenario, what is the preferred employee behavior? </li>
-
-For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
-What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
-
-For example, conduct a survey to see how often people download email attachments from unknown senders.
+  <li>Based on the previous scenario, what is the preferred employee behavior? </li></ol>
+<ol>
+  <li>For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.</li>
+  <li>What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?</li>
+  <li>For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ol>
 What is the goal that you would like the organization to reach regarding this behavior?
 
 For example, to have less than 5% of employees downloading suspicious email attachments.
