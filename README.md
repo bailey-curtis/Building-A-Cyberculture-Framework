@@ -24,13 +24,15 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <br>
   3. What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
+<br>For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ul>
 <br>
-For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ul>
-<ol type="1">
-  <li>What is the goal that you would like the organization to reach regarding this behavior?</li>
-
-For example, to have less than 5% of employees downloading suspicious email attachments.
-Step 2: Involve the Right People
+<br>
+  4. What is the goal that you would like the organization to reach regarding this behavior?
+<br>For example, to have less than 5% of employees downloading suspicious email attachments.
+<br>
+<br>
+<b>Step 2: Involve the Right People</b>
+<br>
 Now that you have a goal in mind, who needs to be involved?
 
 List at least five employees or departments that should be involved. For each person or department, describe in 2–3 sentences what their role and responsibilities will be.
