@@ -63,7 +63,7 @@ Training alone often isn't the entire solution to a security concern.
 <br>
   9. List at least two other potential solutions. For each one, indicate the following:
 
-<ol type="1">
+<ul>
   <li>What type of control is it? Administrative, technical, or physical?</li>
   <li>What goal does this control have? Is it preventive, deterrent, detective, corrective, or compensating?</li>
   <li>What is one advantage of each solution?</li>
