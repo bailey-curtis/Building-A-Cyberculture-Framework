@@ -11,7 +11,7 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <br>
 <br>
-<b>Step 1: Measure and Set Goals</b>
+<font size="=1"><b>Step 1: Measure and Set Goals</b></font>
 <br>
 <br>
 <b>Answer the following questions:</b>
