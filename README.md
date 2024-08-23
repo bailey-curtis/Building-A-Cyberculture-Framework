@@ -9,13 +9,12 @@ Allowing sensitive work information to be shared on employees’ personal device
 <h2>Instructions</h2>
 Complete the following four steps, and list your answers to each question in the Module 2 Challenge Submission FileLinks to an external site.. Remember to make a copy of the Submission File before filling out your answers! This document will be your deliverable for this Challenge.
 <br>
-<b> Step 1: Measure and Set Goals </b>b>
+<b> Step 1: Measure and Set Goals </b>
 <br>
 Answer the following questions:
+<ul> Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out. </ul>
 
-Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
-
-Based on the previous scenario, what is the preferred employee behavior?
+<ul> Based on the previous scenario, what is the preferred employee behavior? </ul>
 
 For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
 What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
