@@ -16,16 +16,14 @@ Complete the following four steps, and list your answers to each question in the
 <br>
 <b>Answer the following questions:</b>
 <br>
-Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+  1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
 <br>
 <br>
-Based on the previous scenario, what is the preferred employee behavior?
+  2. Based on the previous scenario, what is the preferred employee behavior?
+  - For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
 <br>
 <br>
-For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources.
-<br>
-<br>
-What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
+  3. What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
 <br>
 For example, conduct a survey to see how often people download email attachments from unknown senders.</li></ul>
 <ol type="1">
